@@ -54,7 +54,7 @@ The app should then store the installation info in a database.
 - `/slack/:teamId/:userId` to open a direct message with `:userId` in workspace
   `:teamId`
 
-A workspace's ID is found here https://app.slack.com/client/{WORKSPACE_ID}.
+A workspace's ID is found here: `https://app.slack.com/client/{WORKSPACE_ID}`.
 
 [local-dev]: https://slack.dev/node-slack-sdk/tutorials/local-development
 
